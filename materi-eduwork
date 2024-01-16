@@ -18,3 +18,15 @@ Beberapa perintah yang biasa digunakan dalam Git yaitu :
 10.	Git log untuk melihat Riwayat commit yang telah dilakukan.
 11.	Git branch untuk membuat branch baru.
 12.	Git checkout untuk berpindah branch dan dapat juga digunakan untuk berpindah ke history git sebelumnya menggunakan kode hash.
+
+Materi 3
+Branch ialah cabang yang merupakan hasil copy dari branch utama. Ia bersifat parallel dan dapat digunakan untuk pengembangan serta dibutuhkan saat kita ingin mengembangkan fitur yang baru.
+Beberapa kode yang dapat dituliskan di git bash ialah:
+1.	Git branch : untuk melihat semua branch secara local
+2.	Git branch –all : untuk melihat semua branch di public
+3.	Git branch namabranch : untuk membuat branch baru
+4.	Git checkout namabranch : untuk berpindah branch
+5.	Git branch -d namabranch : untuk menghapus branch
+6.	Git merge namabranch : untuk menggabungkan 2 buah branch menjadi 1
+
+Dalam melakukan merge kadang terjadi conflict jika kita mengedit baris yang sama dalam file yang sama sehingga perlu dilakukan penyelesaian secara manual.
