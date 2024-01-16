@@ -1,0 +1,4 @@
+Materi 1
+Git ialah suatu version control system yang dapat digunakan untuk mencatat setiap perubahan yang kita lakukan pada file.
+Git  bisa menyimpang sourcecode dan juga dapat digunakan dengan berkolaborasi dengan pengguna lainnya, selain itu juga dapat dilakukan untuk melakukan tracking perubahan yang pernah dilakukan dan melihat file yang pernah diubah sebelumnya.
+Git dibutuhkan untuk membangun suatu sistem dengan cara berkolaborasi, juga dapat digunakan sebagai alat untuk backup file.
