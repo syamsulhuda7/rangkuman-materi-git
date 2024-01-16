@@ -2,3 +2,19 @@ Materi 1
 Git ialah suatu version control system yang dapat digunakan untuk mencatat setiap perubahan yang kita lakukan pada file.
 Git  bisa menyimpang sourcecode dan juga dapat digunakan dengan berkolaborasi dengan pengguna lainnya, selain itu juga dapat dilakukan untuk melakukan tracking perubahan yang pernah dilakukan dan melihat file yang pernah diubah sebelumnya.
 Git dibutuhkan untuk membangun suatu sistem dengan cara berkolaborasi, juga dapat digunakan sebagai alat untuk backup file.
+
+
+Materi 2
+Beberapa perintah yang biasa digunakan dalam Git yaitu :
+1.	Git init yang digunakna untuk melakukan inisiasi supaya folder yang kita tuju dapat kita Kelola menggunakan Git.
+2.	Git config digunakan untuk melakukan configurasi seperti mengatur username dan email.
+3.	Git status untuk melihat status file dan perubahan yang kita lakukan.
+4.	Git add dilakukan untuk memindahkan file yang telah kita ubah dari working tree ke stagging area.
+5.	Git commit untuk menyimpan perubahan yang telah kita lakukan pada file ke dalam git dengan menambahkan pesan yang spesifik.
+6.	Git clone untuk mengunduh dan mengcopy file yang ada dari git remote baik github maupun gitlab supaya dapat kita edit secara local.
+7.	Git remote untuk melihat nama remote yang kita hubungkan dengan repository online di github maupun gitlab.
+8.	Git push untuk mengirimkan file dari git local ke repository git online seperti github dan gitlab.
+9.	Git pull untuk mengambil file dari repository online jika terjadi perubahan dan mencocokkan dengan file yang kita ubah sebelum dilakukan merge.
+10.	Git log untuk melihat Riwayat commit yang telah dilakukan.
+11.	Git branch untuk membuat branch baru.
+12.	Git checkout untuk berpindah branch dan dapat juga digunakan untuk berpindah ke history git sebelumnya menggunakan kode hash.
