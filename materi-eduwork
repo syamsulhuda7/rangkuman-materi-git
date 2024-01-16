@@ -30,3 +30,6 @@ Beberapa kode yang dapat dituliskan di git bash ialah:
 6.	Git merge namabranch : untuk menggabungkan 2 buah branch menjadi 1
 
 Dalam melakukan merge kadang terjadi conflict jika kita mengedit baris yang sama dalam file yang sama sehingga perlu dilakukan penyelesaian secara manual.
+
+Materi 4
+Source tree ialah suatu software yang berbasis GUI sehingga memiliki tampilan yang lebih menarik dengan dilengkapi berbagai tombol sehingga lebih mudah untuk dioperasikan. Ia lebih mudah diguankan, lebih mudah dalam solving conflict, dan dapat mempercepat kinerja. Dalam melakukan solving conflict dapat dilakukan dengan menggunakan software diff merge yang berkolaborasi dengan software source tree.
